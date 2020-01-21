@@ -3,7 +3,7 @@
     "models": [
         {
             "mapSection": {
-                "0": {
+                "section0": {
                     "dataDocumento": "15/01/2020",
                     "numeroPagamento": "5896523",
                     "denominazione": "Almaviva s.p.a",
@@ -14,7 +14,7 @@
                     "codiceFiscale": "TRANFHSIOE84MDO",
                     "codiceContribuente": "654321"
                 },
-                "1": {
+                "section1": {
                     "codiceAvvisoIUV": "1234",
                     "tassaRifiuti": "122",
                     "addizionale": "1",
@@ -58,14 +58,14 @@
                         }
                     ]
                 },
-                "2": {
+                "section2": {
                     "campo3": "campo3"
                 }
             }
         },
         {
             "mapSection": {
-                "0": {
+                "section0": {
                     "dataDocumento": "15/01/2020",
                     "numeroPagamento": "5896523",
                     "denominazione": "Almaviva s.p.a",
@@ -76,7 +76,7 @@
                     "codiceFiscale": "TRANFHSIOE84MDO",
                     "codiceContribuente": "654321"
                 },
-                "1": {
+                "section1": {
                     "codiceAvvisoIUV": "1234",
                   
                     "addizionale": "1",
@@ -120,14 +120,14 @@
                         }
                     ]
                 },
-                "2": {
+                "section2": {
                     "campo3": "campo3"
                 }
             }
         },
         {
             "mapSection": {
-                "0": {
+                "section0": {
                     "dataDocumento": "",
                     "numeroPagamento": "",
                     "denominazione": "",
@@ -138,7 +138,7 @@
                     "codiceFiscale": "",
                     "codiceContribuente": ""
                 },
-                "1": {
+                "section1": {
                     "codiceAvvisoIUV": "",
                     "tassaRifiuti": "",
                     "addizionale": "",
@@ -182,7 +182,7 @@
                         }
                     ]
                 },
-                "2": {
+                "section2": {
                     "campo3": "campo3"
                 }
             }
