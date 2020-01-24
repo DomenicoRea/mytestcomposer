@@ -1,5 +1,9 @@
 {
-    "info": {},
+    "info": {"verticale":"Tari",
+             "gruppoVer":"Tari",
+             "title":"Tari",
+             "id":22
+             },
     "models": [
         {
             "mapSection": {
