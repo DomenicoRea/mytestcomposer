@@ -3,7 +3,8 @@
         "verticale":"Tari",
              "gruppoVer":"Gruppo Tari",
              "title":"Tassa Tari",
-             "id":22
+             "id":22,
+             "dataCreazione":"25/12/2014"
              },
     "models": [
         {
